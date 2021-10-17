@@ -30,4 +30,8 @@ Horizontal 400, 12, 36, 64, 512
 
 Vertical 600, 1, 2, 22, 625
 
- Also see: https://easyeda.com/david.clifford/vga-400x600-rom
+ Also see: 
+ 
+ https://easyeda.com/david.clifford/vga-400x600-rom
+ 
+ http://digicoolthings.com/usage-guide-for-tl866-programmer-adapter-for-27c400-800-160-322/
